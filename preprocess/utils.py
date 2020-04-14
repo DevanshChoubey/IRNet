@@ -10,7 +10,7 @@
 """
 import os
 import json
-from pattern.en import lemma
+from pattern3.en import lemma
 from nltk.stem import WordNetLemmatizer
 
 VALUE_FILTER = ['what', 'how', 'list', 'give', 'show', 'find', 'id', 'order', 'when']
